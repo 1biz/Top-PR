@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.1biz/topic-news",
+  "title": "Topic News PR Distribution",
+  "description": "AI-accessible PR distribution across Asian news markets.",
+  "version": "1.3.0",
+  "websiteUrl": "https://www.topicnews.cn/taiwan-pr-service",
+  "repository": {
+    "url": "https://github.com/1biz/Top-PR",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.topicnews.cn/wp-json/topicnews/mcp"
+    }
+  ]
+}
