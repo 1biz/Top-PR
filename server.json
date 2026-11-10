@@ -3,8 +3,8 @@
   "name": "io.github.1biz/topic-news",
   "title": "Topic News PR Distribution",
   "description": "AI-accessible PR distribution across Asian news markets.",
-  "version": "1.3.0",
-  "websiteUrl": "https://www.topicnews.cn/taiwan-pr-service",
+  "version": "1.3.1",
+  "websiteUrl": "https://www.topcnews.cn/about",
   "repository": {
     "url": "https://github.com/1biz/Top-PR",
     "source": "github"
